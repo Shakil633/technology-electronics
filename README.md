@@ -17,7 +17,7 @@ Their latest project, the PlayStation 5, features advanced hardware, immersive g
 ### Google's Quantum Computing Research:
 - Google's Quantum AI lab is working on projects related to quantum computing, which have the potential to revolutionize technology and electronics.They are exploring applications in cryptography, machine learning, and scientific research, pushing the boundaries of what's possible in computing.
 
-Intel's Chip Manufacturing Advancements:
+### Intel's Chip Manufacturing Advancements:
 Intel is engaged in projects that focus on advancing semiconductor manufacturing technology.
 They aim to develop smaller, more powerful, and energy-efficient chips, driving innovation in everything from personal computers to data centers and beyond.
 

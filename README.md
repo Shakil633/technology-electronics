@@ -10,7 +10,7 @@
 - Samsung is at the forefront of foldable display technology. They have launched projects like the Samsung Galaxy Z Fold series.
 These projects aim to redefine the smartphone and tablet experience, with displays that can be folded or unfolded for different use cases.
 
-Sony's Next-Gen Gaming Consoles:
+### Sony's Next-Gen Gaming Consoles:
 Sony has consistently delivered innovative gaming consoles with projects like the PlayStation series.
 Their latest project, the PlayStation 5, features advanced hardware, immersive gaming experiences, and compatibility with a wide range of games and media.
 

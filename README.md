@@ -14,7 +14,7 @@ These projects aim to redefine the smartphone and tablet experience, with displa
 - Sony has consistently delivered innovative gaming consoles with projects like the PlayStation series.
 Their latest project, the PlayStation 5, features advanced hardware, immersive gaming experiences, and compatibility with a wide range of games and media.
 
-#Google's Quantum Computing Research:
+### Google's Quantum Computing Research:
 Google's Quantum AI lab is working on projects related to quantum computing, which have the potential to revolutionize technology and electronics.They are exploring applications in cryptography, machine learning, and scientific research, pushing the boundaries of what's possible in computing.
 
 Intel's Chip Manufacturing Advancements:

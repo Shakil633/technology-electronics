@@ -21,8 +21,8 @@ Their latest project, the PlayStation 5, features advanced hardware, immersive g
 - Intel is engaged in projects that focus on advancing semiconductor manufacturing technology.
 They aim to develop smaller, more powerful, and energy-efficient chips, driving innovation in everything from personal computers to data centers and beyond.
 
-OnePlus's 5G Smartphone Development:
-OnePlus has been at the forefront of 5G smartphone development, with projects such as the OnePlus 9 series.
+### OnePlus's 5G Smartphone Development:
+- OnePlus has been at the forefront of 5G smartphone development, with projects such as the OnePlus 9 series.
 These projects leverage high-speed 5G connectivity and advanced features, enhancing the user experience and enabling new applications like cloud gaming and augmented reality.
 These technology and electronics projects from leading companies showcase their commitment to innovation, sustainability, and cutting-edge technology, driving progress in various sectors of the industry.
 

@@ -20,7 +20,7 @@ const BrandDetails = () => {
   const handleProductAdd = () => {
     console.log(info);
     fetch(
-      "https://technology-and-electronics-server-nadg6amp7.vercel.app/userData",
+      "https://technology-and-electronics-server-beige.vercel.app/userData",
       {
         method: "POST",
         headers: {

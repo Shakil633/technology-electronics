@@ -23,7 +23,7 @@ const AddProduct = () => {
     console.log(bandProduct);
     //send data to server
     fetch(
-      "https://technology-and-electronics-server-nadg6amp7.vercel.app/products",
+      "https://technology-and-electronics-server-beige.vercel.app/products",
       {
         method: "POST",
         headers: {

@@ -52,7 +52,7 @@ const RegisterPage = () => {
             // new user has been created
             const user = { email };
             fetch(
-              "https://technology-and-electronics-server-nadg6amp7.vercel.app/user",
+              "https://technology-and-electronics-server-beige.vercel.app/user",
               {
                 method: "POST",
                 headers: {

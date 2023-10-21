@@ -6,21 +6,7 @@ const Banner = () => {
   const brandDataLoad = useLoaderData();
   console.log(brandDataLoad);
   return (
-    <div className="">
-      {/* <div className=" bannerBg lg:h-[500px] md:h-[320px] h-[180px]">
-        <div className=" text-center lg:mt-3">
-          <h4 className="lg:text-2xl text-[#99999f] font-normal lg:pt-5 md-mt-5 mt-2">
-            New Collection
-          </h4>
-          <h2 className="lg:mt-2 lg:text-5xl md:text-3xl text-xl">Our Smart Collection</h2>
-          <Link to={"/register"}>
-            <button className="lg:mt-5 md:mt-3 mt-2 lg:py-2 md:py-2 py-2 lg:px-6 md:px-4 px-3 font-normal rounded text-white lg:text-lg md:text-base text-sm bg-[#db2777]">
-              Shop Now
-            </button>
-          </Link>
-        </div>
-      </div> */}
-
+    <div>
       <div>
         <img className="w-full" src="https://i.ibb.co/dp2rQt7/new-slider.jpg" alt="" />
       </div>

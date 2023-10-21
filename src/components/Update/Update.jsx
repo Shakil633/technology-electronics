@@ -30,7 +30,7 @@ const Update = () => {
     console.log(bandProduct);
     //send data to server
     fetch(
-      `https://technology-and-electronics-server-nadg6amp7.vercel.app/products/${_id}`,
+      `https://technology-and-electronics-server-beige.vercel.app/products/${_id}`,
       {
         method: "PUT",
         headers: {

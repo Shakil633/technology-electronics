@@ -13,16 +13,13 @@ const AddBrandName = () => {
     console.log(nameBand);
 
     // send data to the server
-    fetch(
-      "https://technology-and-electronics-server-nadg6amp7.vercel.app/brands",
-      {
-        method: "POST",
-        headers: {
-          "content-type": "application/json",
-        },
-        body: JSON.stringify(nameBand),
-      }
-    )
+    fetch("https://technology-and-electronics-server-beige.vercel.app/brands", {
+      method: "POST",
+      headers: {
+        "content-type": "application/json",
+      },
+      body: JSON.stringify(nameBand),
+    })
       .then((res) => res.json())
       .then((data) => {
         if (data.insertedId) {

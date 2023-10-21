@@ -26,7 +26,7 @@ const router = createBrowserRouter([
         element: <Banner></Banner>,
         loader: () =>
           fetch(
-            "https://technology-and-electronics-server-nadg6amp7.vercel.app/brands"
+            "https://technology-and-electronics-server-beige.vercel.app/brands"
           ),
       },
       {
@@ -34,7 +34,7 @@ const router = createBrowserRouter([
         element: <ProductDetails></ProductDetails>,
         loader: ({ params }) =>
           fetch(
-            `https://technology-and-electronics-server-nadg6amp7.vercel.app/brands/${params.id}`
+            `https://technology-and-electronics-server-beige.vercel.app/brands/${params.id}`
           ),
       },
       {
@@ -62,7 +62,7 @@ const router = createBrowserRouter([
         ),
         loader: ({ params }) =>
           fetch(
-            `https://technology-and-electronics-server-nadg6amp7.vercel.app/products/${params.id}`
+            `https://technology-and-electronics-server-beige.vercel.app/products/${params.id}`
           ),
       },
       {
@@ -74,7 +74,7 @@ const router = createBrowserRouter([
         ),
         loader: ({ params }) =>
           fetch(
-            `https://technology-and-electronics-server-nadg6amp7.vercel.app/products/${params.id}`
+            `https://technology-and-electronics-server-beige.vercel.app/products/${params.id}`
           ),
       },
       {
@@ -86,7 +86,7 @@ const router = createBrowserRouter([
         element: <RegisterPage></RegisterPage>,
       },
       {
-        path: "addBrandName",
+        path: "/addBrandName",
         element: <AddBrandName></AddBrandName>,
       },
     ],

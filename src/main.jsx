@@ -15,6 +15,7 @@ import ProductDetails from "./components/ProductDetails/ProductDetails";
 import BrandDetails from "./components/BrandDetails/BrandDetails";
 import Update from "./components/Update/Update";
 import Error from "./components/Error/Error";
+
 const router = createBrowserRouter([
   {
     path: "/",

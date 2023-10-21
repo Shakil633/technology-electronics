@@ -93,7 +93,7 @@ const MyCart = () => {
       {myData.map((data) => (
         <div key={data._id}>
           <div>
-            <div className="card bg-base-100 h-[580px] shadow-xl">
+            <div className="card bg-base-100 h-[580px] shadow-xl border rounded-lg border-white">
               <figure className="px-10 pt-10">
                 <img src={data.image} alt="" className=" h-[150px] w-[200px]" />
               </figure>

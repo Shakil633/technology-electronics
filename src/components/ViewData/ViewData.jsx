@@ -5,7 +5,7 @@ const ViewData = ({ view }) => {
 
   return (
     <div>
-      <div className="card card-compact  bg-base-100 shadow-xl">
+      <div className="card card-compact  bg-base-100 shadow-xl border border-white">
         <figure>
           <img className="h-[300px]" src={image} alt="" />
         </figure>

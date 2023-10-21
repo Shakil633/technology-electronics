@@ -4,7 +4,7 @@ const BrandCollectionCard = ({ brand }) => {
   const { _id, bandName, photo } = brand;
   return (
     <Link to={`/products/${_id}`}>
-      <div className="card card-compact h-[300px] bg-base-100 shadow-xl rounded-lg">
+      <div className="card card-compact h-[300px] bg-base-100 shadow-xl rounded-lg border border-white">
         <figure>
           <img className="h-[300px] w-full" src={photo} alt="" />
         </figure>

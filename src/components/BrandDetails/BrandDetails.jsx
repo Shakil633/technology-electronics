@@ -45,7 +45,7 @@ const BrandDetails = () => {
 
       <div>
         <h2 className=" md:text-3xl text-2xl font-semibold mt-6">{name}</h2>
-        <p className=" md:text-base text-sm font-normal mb-5 text-[#0b0b0bb3] mt-3">
+        <p className=" md:text-base text-sm font-normal mb-5 mt-3">
           {description}
         </p>
 

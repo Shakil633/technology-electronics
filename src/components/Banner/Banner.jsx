@@ -8,7 +8,7 @@ const Banner = () => {
   return (
     <div>
       <div>
-        <img className="w-full" src="https://i.ibb.co/dp2rQt7/new-slider.jpg" alt="" />
+        <img className="w-full border-b-2 border-white" src="https://i.ibb.co/dp2rQt7/new-slider.jpg" alt="" />
       </div>
       <div className="mt-10">
         <h2 className=" text-center text-3xl font-bold lg:mb-20 md:mb-16 mb-10">
@@ -26,7 +26,7 @@ const Banner = () => {
 
       <div>
         <div className="lg:mt-24 md:mt-10 mt-10 mb-10 lg:px-20 md:px-10 px-5">
-          <img
+          <img className="border-2 border-white"
             src="https://i.ibb.co/VQcrWwd/centerbanner-1350x400.jpg"
             alt=""
           />
@@ -37,19 +37,19 @@ const Banner = () => {
             <div className=" flex lg:flex-row md:flex-row flex-col items-center gap-7">
               <div>
                 <img
-                  className="lg:h-[460px] md:h-[340px] rounded"
+                  className="lg:h-[460px] md:h-[340px] rounded border-2 border-white"
                   src="https://i.ibb.co/jLHXKyM/banner-1.webp"
                   alt=""
                 />
               </div>
               <div>
-                <img className="rounded-t" src="https://i.ibb.co/hcLLJwb/banner-2.webp" alt="" />
-                <img className=" rounded-b" src="https://i.ibb.co/XZMBr7D/banner-3.webp" alt="" />
+                <img className="rounded-t border-t-2  border-white" src="https://i.ibb.co/hcLLJwb/banner-2.webp" alt="" />
+                <img className=" rounded-b border-b-2 border-white" src="https://i.ibb.co/XZMBr7D/banner-3.webp" alt="" />
               </div>
             </div>
             <div>
               <img
-                className="lg:h-[460px] md:h-[340px] rounded"
+                className="lg:h-[460px] md:h-[340px] rounded border-2 border-white"
                 src="https://i.ibb.co/gVcKfTC/banner-4.webp"
                 alt=""
               />

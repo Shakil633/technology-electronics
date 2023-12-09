@@ -1,4 +1,4 @@
-# [Live Link](https://starlit-tine-400406.web.app)
+# [Live Link](https://starlit-tine-400406.web.app/)
 
 ## Least features in this project is:
 

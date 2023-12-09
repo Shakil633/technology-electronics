@@ -2,6 +2,7 @@
 
 ## Least features in this project is:
 
+
 1. **User Authentication and Authorization:**
    - Users can create accounts and log in securely using Firebase authentication.
    - Authorization controls access to certain features, ensuring a personalized experience.

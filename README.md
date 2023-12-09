@@ -1,31 +1,27 @@
 # [Live Link](https://starlit-tine-400406.web.app/)
 
-# Technology and Electronics
-
 ## Least features in this project is:
 
-### Apple's Sustainable Manufacturing Initiatives:
-- Apple continues to invest in sustainable manufacturing projects. They focus on reducing the environmental impact of their products and supply chain.Projects include using recycled materials in product design, transitioning to renewable energy sources for manufacturing facilities, and reducing electronic waste through device recycling programs.
+1. **User Authentication and Authorization:**
+   - Users can create accounts and log in securely using Firebase authentication.
+   - Authorization controls access to certain features, ensuring a personalized experience.
 
-### Samsung's Foldable Display Innovation:
-- Samsung is at the forefront of foldable display technology. They have launched projects like the Samsung Galaxy Z Fold series.
-These projects aim to redefine the smartphone and tablet experience, with displays that can be folded or unfolded for different use cases.
+2. **Product Catalog and Filtering:**
+   - The application provides a comprehensive catalog of tech products.
+   - Users can easily filter products based on categories, brands, and specifications.
 
-### Sony's Next-Gen Gaming Consoles:
-- Sony has consistently delivered innovative gaming consoles with projects like the PlayStation series.
-Their latest project, the PlayStation 5, features advanced hardware, immersive gaming experiences, and compatibility with a wide range of games and media.
+3. **Shopping Cart and Checkout:**
+   - Users can add products to their shopping cart for convenient shopping.
+   - The checkout process is seamless, integrating with Firebase for secure transactions.
 
-### Google's Quantum Computing Research:
-- Google's Quantum AI lab is working on projects related to quantum computing, which have the potential to revolutionize technology and electronics.They are exploring applications in cryptography, machine learning, and scientific research, pushing the boundaries of what's possible in computing.
+4. **Real-time Updates and Notifications:**
+   - Users receive real-time updates on their orders and can track the status of shipments.
+   - Notification features enhance the overall user experience.
 
-### Intel's Chip Manufacturing Advancements:
-- Intel is engaged in projects that focus on advancing semiconductor manufacturing technology.
-They aim to develop smaller, more powerful, and energy-efficient chips, driving innovation in everything from personal computers to data centers and beyond.
+5. **Responsive Design with Tailwind CSS and DaisyUI:**
+   - The frontend is built with React and styled using Tailwind CSS, including components from DaisyUI.
+   - The responsive design ensures a consistent and visually appealing experience across various devices.
 
-### OnePlus's 5G Smartphone Development:
-- OnePlus has been at the forefront of 5G smartphone development, with projects such as the OnePlus 9 series.
-These projects leverage high-speed 5G connectivity and advanced features, enhancing the user experience and enabling new applications like cloud gaming and augmented reality.
-These technology and electronics projects from leading companies showcase their commitment to innovation, sustainability, and cutting-edge technology, driving progress in various sectors of the industry.
 
 ### Technologies used : 
 - Tailwind CSS, React, Material ui,MongoDB, Node.js, Express.js, JWT token, Firebase,

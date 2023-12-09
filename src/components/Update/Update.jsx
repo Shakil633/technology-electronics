@@ -5,7 +5,7 @@ const Update = () => {
   const update = useLoaderData();
   const { _id, name, image, bandName, category, price, rating, description } =
     update;
-  console.log(update);
+  console.log('tttttttttttttttt',update);
 
   const handleUpdate = (e) => {
     e.preventDefault();

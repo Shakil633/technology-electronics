@@ -1,7 +1,6 @@
-# Live link=(https://starlit-tine-400406.web.app)
+# [Live Link](https://starlit-tine-400406.web.app)
 
-# Technology and Electronics
-
+## Least features in this project is:
 
 ### Apple's Sustainable Manufacturing Initiatives:
 - Apple continues to invest in sustainable manufacturing projects. They focus on reducing the environmental impact of their products and supply chain.Projects include using recycled materials in product design, transitioning to renewable energy sources for manufacturing facilities, and reducing electronic waste through device recycling programs.
@@ -25,4 +24,8 @@ They aim to develop smaller, more powerful, and energy-efficient chips, driving 
 - OnePlus has been at the forefront of 5G smartphone development, with projects such as the OnePlus 9 series.
 These projects leverage high-speed 5G connectivity and advanced features, enhancing the user experience and enabling new applications like cloud gaming and augmented reality.
 These technology and electronics projects from leading companies showcase their commitment to innovation, sustainability, and cutting-edge technology, driving progress in various sectors of the industry.
+
+### Technologies used : 
+- Tailwind CSS, React, Material ui,MongoDB, Node.js, Express.js, JWT token, Firebase,
+React Hook Form, Axios, TanStack Query, Stripe.
 

@@ -92,10 +92,10 @@ const MyCart = () => {
     <div className=" grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5 mt-10 mb-10 lg:px-20 md:px-10 px-5">
       {myData.map((data) => (
         <div key={data._id}>
-          <div>
-            <div className="card bg-base-100 h-[580px] shadow-xl border rounded-lg border-white">
+          <div className=" mb-28 mt-16">
+            <div className="card bg-base-100 h-[590px] shadow-xl border rounded-lg border-white">
               <figure className="px-10 pt-10">
-                <img src={data.image} alt="" className=" h-[150px] w-[200px]" />
+                <img src={data.image} alt="" className="h-28" />
               </figure>
               <div className="card-body items-center text-center">
                 <h2 className="card-title">{data.name}</h2>
